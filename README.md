@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/wwykA0flfbus2OYG6l/giphy.gif" alt="Loading GIF" width="300" height="250">
 
-# 🐾 Tamagotchi Virtual Game
+## 🐾 Tamagotchi Virtual Game
 
 Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar de um bichinho virtual! 🐶🐱
 
@@ -52,8 +52,6 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 ## 💡 Ideias Futuras:
 - Inserir animações ou ícones visuais para cada ação.
 - Permitir a personalização do nome e aparência do Tamagotchi.
-
-<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 Divirta-se cuidando do seu Tamagotchi virtual! 🌟
 
