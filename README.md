@@ -5,6 +5,13 @@
 Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar de um bichinho virtual! 🐶🐱
 
 ---
+## 📋 **Sumário**
+
+- [Como Jogar](#-como-jogar)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Ideias Futuras](#-ideias-futuras)
+---
 
 ## 🎮 Como Jogar:
 1. **Alimente seu Tamagotchi**: Clique no botão de "Alimentar" para diminuir a fome.
@@ -35,7 +42,7 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 
 ---
 
-## 💡 Ideias para Melhorias Futuras:
+## 💡 Ideias Futuras:
 - Inserir animações ou ícones visuais para cada ação.
 - Permitir a personalização do nome e aparência do Tamagotchi.
 
