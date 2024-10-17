@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/wwykA0flfbus2OYG6l/giphy.gif" alt="Loading GIF" width="300" height="250">
+
 # 🐾 Tamagotchi Virtual Game
 
 Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar de um bichinho virtual! 🐶🐱
