@@ -36,7 +36,6 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 ---
 
 ## 💡 Ideias para Melhorias Futuras:
-- Adicionar diferentes estados para o Tamagotchi (feliz, triste, cansado).
 - Inserir animações ou ícones visuais para cada ação.
 - Permitir a personalização do nome e aparência do Tamagotchi.
 
