@@ -39,6 +39,14 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 - **Tamagotchi.java**: A classe principal que define o comportamento do bichinho.
 - **JogoTamagotchi.java**: Classe com a interface gráfica e a lógica do jogo.
 
+## Colaboradores
+
+<p align="center">
+<!-- MENTIONS-LIST:START -->
+<a href="https://github.com/beatrizolivt/beatrizolivt"><img src="https://github.com/beatrizolivt.png?size=96" alt="beatrizolivt" width="96px" height="96px" /></a>
+<a href="https://github.com/gabriela-sofia/gabriela-sofia/"><img src="https://github.com/gabriela-sofia.png?size=96" alt="gabriela-sofia" width="96px" height="96px" /></a>
+<a href="https://github.com/gmhsss/gmhsss"><img src="https://github.com/gmhsss.png?size=96" alt="gmhsss" width="96px" height="96px" /></a>
+<a href="https://github.com/akitodr/akitodr"><img src="https://github.com/akitodr.png?size=96" alt="akitodr" width="96px" height="96px" /></a>
 
 
 ## 💡 Ideias Futuras:
