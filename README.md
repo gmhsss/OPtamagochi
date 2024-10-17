@@ -4,14 +4,13 @@
 
 Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar de um bichinho virtual! 🐶🐱
 
----
 ## 📋 **Sumário**
 
 - [Como Jogar](#-como-jogar)
 - [Funcionalidades](#-funcionalidades)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Ideias Futuras](#-ideias-futuras)
----
+
 
 ## 🎮 Como Jogar:
 1. **Alimente seu Tamagotchi**: Clique no botão de "Alimentar" para diminuir a fome.
@@ -19,7 +18,7 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 3. **Deixe seu Tamagotchi dormir**: Clique em "Dormir" para recuperar energia.
 4. **Cuidado com o tempo**: A cada 5 segundos, a fome aumenta e a energia diminui automaticamente!
 
----
+
 
 ## ✨ Funcionalidades:
 - **Acompanhe os Status**: Níveis de fome, felicidade e energia são exibidos na tela.
@@ -27,20 +26,20 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 - **Simulação de Tempo**: A fome aumenta e a energia diminui com o tempo.
 - **Atualização em Tempo Real**: Os níveis do Tamagotchi são atualizados conforme você interage.
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas:
 - **Java**: O jogo foi programado em Java.
 - **Swing**: Utilizado para a interface gráfica.
 - **POO (Programação Orientada a Objetos)**: A lógica do Tamagotchi é baseada em conceitos de POO.
 
----
+
 
 ## 📦 Estrutura do Projeto:
 - **Tamagotchi.java**: A classe principal que define o comportamento do bichinho.
 - **JogoTamagotchi.java**: Classe com a interface gráfica e a lógica do jogo.
 
----
+
 
 ## 💡 Ideias Futuras:
 - Inserir animações ou ícones visuais para cada ação.
