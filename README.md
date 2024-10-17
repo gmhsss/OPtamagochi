@@ -45,7 +45,7 @@ Bem-vindo ao Tamagotchi Virtual, um jogo simples e fofo onde você pode cuidar d
 - Inserir animações ou ícones visuais para cada ação.
 - Permitir a personalização do nome e aparência do Tamagotchi.
 
----
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 Divirta-se cuidando do seu Tamagotchi virtual! 🌟
 
