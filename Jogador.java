@@ -7,7 +7,6 @@ public class Jogador {
     private List<Tamagotchi> bichinhos;
     private List<Planta> plantas;
 
-
     public Jogador(String nome) {
         this.nome = nome;
         this.bichinhos = new ArrayList<>();
@@ -34,8 +33,7 @@ public class Jogador {
         return nome;
     }
 
-    // Método para salvar os dados do jogador em um arquivo
-
+    // Método para carregar dados de arquivo
     public static Jogador carregarDados() {
         Jogador jogador = new Jogador("Jogador Carregado");
 
@@ -58,7 +56,6 @@ public class Jogador {
             }
         }
 
-        // Agora carrega os dados normalmente
         try (BufferedReader reader = new BufferedReader(new FileReader(arquivo))) {
             String line;
             while ((line = reader.readLine()) != null) {
